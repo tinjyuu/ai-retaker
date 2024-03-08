@@ -62,3 +62,6 @@ Style-Bert-VITS2のディレクトリのEditor.batをダブルクリックか、
   <source src="movies/demo2.mp4" type="video/mp4">
   お使いのブラウザはビデオタグをサポートしていません。
 </video>
+
+デモ動画
+<iframe width="560" height="315" src="https://www.youtube.com/embed/un3xf7t5kJ8?si=d2GBsAc_HoCsV7gP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
