@@ -40,28 +40,14 @@ Style-Bert-VITS2のディレクトリのEditor.batをダブルクリックか、
 
 ## デモ
 
-サンプルボイス
-
-<audio controls>
-  <source src="voice/45745a58-67a0-456b-8ab1-1d3b02ce0a0e.wav" type="audio/wav">
-  お使いのブラウザはオーディオタグをサポートしていません。
-</audio>
-
-
-
 バーチャルイケメン
-
-<video width="320" height="240" controls>
-  <source src="movies/demo1.mp4" type="video/mp4">
-  お使いのブラウザはビデオタグをサポートしていません。
+<video src="https://github.com/tinjyuu/ai-retaker/assets/8444525/cf3078c2-a5a1-48d4-90e0-e1636e99f22b" controls="controls" style="max-width: 730px;">
 </video>
 
 バーチャル美女
-
-<video width="320" height="240" controls>
-  <source src="movies/demo2.mp4" type="video/mp4">
-  お使いのブラウザはビデオタグをサポートしていません。
+<video src="https://github.com/tinjyuu/ai-retaker/assets/8444525/813aad3f-03eb-4ea4-802e-af9f74ec430e" controls="controls" style="max-width: 730px;">
 </video>
+
 
 デモ動画
 <iframe width="560" height="315" src="https://www.youtube.com/embed/un3xf7t5kJ8?si=d2GBsAc_HoCsV7gP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
