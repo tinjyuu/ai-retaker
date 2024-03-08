@@ -40,7 +40,7 @@ Style-Bert-VITS2のディレクトリのEditor.batをダブルクリックか、
 
 ## デモ
 
-バーチャルイケメン
+バーチャルハンサム
 <video src="https://github.com/tinjyuu/ai-retaker/assets/8444525/cf3078c2-a5a1-48d4-90e0-e1636e99f22b" controls="controls" style="max-width: 730px;">
 </video>
 
@@ -50,5 +50,6 @@ Style-Bert-VITS2のディレクトリのEditor.batをダブルクリックか、
 
 
 デモ動画
+声優の塩沢兼人さん（故人）による生成ボイスのデモです。問題があれば削除します。
 
 [![Image Alt Text](https://img.youtube.com/vi/un3xf7t5kJ8/0.jpg)](https://www.youtube.com/watch?v=un3xf7t5kJ8)
