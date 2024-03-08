@@ -37,3 +37,28 @@ Style-Bert-VITS2のディレクトリのEditor.batをダブルクリックか、
 
 ![Editor](images/sbv_editor.png)
 
+
+## デモ
+
+サンプルボイス
+
+<audio controls>
+  <source src="voice/45745a58-67a0-456b-8ab1-1d3b02ce0a0e.wav" type="audio/wav">
+  お使いのブラウザはオーディオタグをサポートしていません。
+</audio>
+
+
+
+バーチャルイケメン
+
+<video width="320" height="240" controls>
+  <source src="movies/demo1.mp4" type="video/mp4">
+  お使いのブラウザはビデオタグをサポートしていません。
+</video>
+
+バーチャル美女
+
+<video width="320" height="240" controls>
+  <source src="movies/demo2.mp4" type="video/mp4">
+  お使いのブラウザはビデオタグをサポートしていません。
+</video>
